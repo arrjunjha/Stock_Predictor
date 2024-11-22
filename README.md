@@ -32,3 +32,6 @@ streamlit run app.py
 Future Improvements:
 Incorporate external factors like news sentiment analysis.
 Add support for real-time stock predictions.
+
+Index.py:
+index.py file consist the code, which was I created for training the model.
